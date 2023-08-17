@@ -1,0 +1,18 @@
+/home/durbaon/.ghcup/ghc/9.2.5/lib/ghc-9.2.5/include/ghcversion.h:
+  hash: 8ef6e3cecb29aca3884134f57ae55f780b89ff0e4491f9e76cec81b39be34fe6
+? /home/durbaon/delivery/Haskell/Compressor_bo/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/imageCompressor-exe/autogen/Paths_imageCompressor.hs
+: hash: e7573f877aea0fdd88058fe997e64438ab4d49bf05043aa4f49605cadfb61230
+? /home/durbaon/delivery/Haskell/Compressor_bo/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/imageCompressor-exe/autogen/cabal_macros.h
+: hash: 2f09864744abf7b65f94e330d6fae65a921116b421c5aca27dc1d0d27189e40f
+/home/durbaon/delivery/Haskell/Compressor_bo/CHANGELOG.md:
+  hash: b1aa181525197d54d3a57cc07898a8e142a2db932f87b1d51e346f317e055cb4
+/home/durbaon/delivery/Haskell/Compressor_bo/README.md:
+  hash: 6cda5a7f6d526ce28374ced4d09458cabff87efd2890a5ec4b6daeb935415efb
+/home/durbaon/delivery/Haskell/Compressor_bo/app/Main.hs:
+  hash: 94e6fba9b9a51bd234cdb3b3d506fd4e5379f17c747dc9314db1fb8a574ed1e0
+/home/durbaon/delivery/Haskell/Compressor_bo/imageCompressor.cabal:
+  hash: ee65b5352a1fd750d1eeab83f69777c0a9f761f89a818ef358917847e42f92c7
+/home/durbaon/delivery/Haskell/Compressor_bo/package.yaml:
+  hash: 22310b63d72464106173237768eb58946f4f2c0795e26052ac6d6f00178f27ed
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

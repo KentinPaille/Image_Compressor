@@ -1,0 +1,32 @@
+/home/durbaon/.ghcup/ghc/9.2.5/lib/ghc-9.2.5/include/ghcversion.h:
+  hash: 8ef6e3cecb29aca3884134f57ae55f780b89ff0e4491f9e76cec81b39be34fe6
+/home/durbaon/delivery/Haskell/Compressor_bo/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_imageCompressor.hs:
+  hash: 04dedc1b4c8576c8206e2baa8df2d6574595ba3baa6fb9a10df5416fd16f5f02
+/home/durbaon/delivery/Haskell/Compressor_bo/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: eb72eeb0e3c50ebedf526212d1f52e780fcd42d1321ca563331ae97bbf2a5753
+/home/durbaon/delivery/Haskell/Compressor_bo/CHANGELOG.md:
+  hash: b1aa181525197d54d3a57cc07898a8e142a2db932f87b1d51e346f317e055cb4
+/home/durbaon/delivery/Haskell/Compressor_bo/README.md:
+  hash: 6cda5a7f6d526ce28374ced4d09458cabff87efd2890a5ec4b6daeb935415efb
+/home/durbaon/delivery/Haskell/Compressor_bo/imageCompressor.cabal:
+  hash: ee65b5352a1fd750d1eeab83f69777c0a9f761f89a818ef358917847e42f92c7
+/home/durbaon/delivery/Haskell/Compressor_bo/package.yaml:
+  hash: 22310b63d72464106173237768eb58946f4f2c0795e26052ac6d6f00178f27ed
+/home/durbaon/delivery/Haskell/Compressor_bo/src/Cluster.hs:
+  hash: 098ccb3961ca8fe0ecc3bf8f355bf93824a6d5d44e1468ab2cb6a50fd99e8c37
+/home/durbaon/delivery/Haskell/Compressor_bo/src/Color.hs:
+  hash: a927951c304c815a16f073b7f3e5e15e6ce73abedf04736b2653d2b4d4ef2a09
+/home/durbaon/delivery/Haskell/Compressor_bo/src/Kmeans.hs:
+  hash: 47958a820517dd1b61325a883b3b10bf157fb5a1f8e7ea87b49db2d24167cb89
+/home/durbaon/delivery/Haskell/Compressor_bo/src/Lib.hs:
+  hash: 08b9c744ea4adab7d980443e2933ec29dbf0894399fe4ddbceca11248c6b233a
+/home/durbaon/delivery/Haskell/Compressor_bo/src/ParseArgs.hs:
+  hash: 823cdee61b1f7f47c5e89bfafa3fe0d7db49fad0654e435a78af4f8fe7cc0301
+/home/durbaon/delivery/Haskell/Compressor_bo/src/ParsePixel.hs:
+  hash: 1365b5d981266582b494d79bda63ee1db7193516c2451833909f38208e2051d1
+/home/durbaon/delivery/Haskell/Compressor_bo/src/Pixel.hs:
+  hash: f806671854dcc1d4870951147476bcad1d4a49d6c7be9a2cb7240bdcfb5baac5
+/home/durbaon/delivery/Haskell/Compressor_bo/src/Position.hs:
+  hash: 67da4f54779e633b743a6842c51c618031c3edcb49cad5fb487e0442ba3ea204
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
