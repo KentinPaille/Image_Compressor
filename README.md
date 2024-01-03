@@ -7,7 +7,7 @@
 
 ### Makefile
 ```sh
-$> git clone https://github.com/max044/Image_Compressor.git
+$> git clone git@github.com:KentinPaille/Image_Compressor.git
 $> cd Image_Compressor
 $> make
 ```
